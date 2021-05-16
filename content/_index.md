@@ -46,7 +46,7 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         align: left
-        image: images/feature.svg
+        image: images/Screen Shot 2021-05-16 at 12.16.46 AM.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
