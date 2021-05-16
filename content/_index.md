@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to ICZ Pleasanton
-    subtitle: Eid-ul-Fitr Mubarak!
+    subtitle: >-
+      Eid-ul-Fitr Mubarak! Insh'Allah we will see you all at our outdoor fair on
+      May 16th, 2021 from 5-7pm.
     actions:
       - label: Learn More
         url: /features
