@@ -8,7 +8,7 @@ params:
       - label: Media
         url: /features
         style: link
-      - label: Blog
+      - label: Programs
         url: /blog
         style: link
       - label: About
