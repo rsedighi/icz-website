@@ -5,7 +5,7 @@ params:
     title: Islamic Center Zahra (ICZ)
     has_nav: true
     nav_links:
-      - label: Features
+      - label: Media
         url: /features
         style: link
       - label: Blog
