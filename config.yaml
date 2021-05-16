@@ -2,7 +2,7 @@ title: Stackbit Starter Theme
 baseURL: /
 params:
   header:
-    title: Starter
+    title: Islamic Center Zahra (ICZ)
     has_nav: true
     nav_links:
       - label: Features
