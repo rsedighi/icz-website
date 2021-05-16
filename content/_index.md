@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: Ramadhan 2021
     features:
-      - title: Feature 1
+      - title: ICZ Kids
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
