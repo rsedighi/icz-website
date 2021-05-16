@@ -76,7 +76,7 @@ sections:
       ICZ is a non-profit religious organization dedicated to practicing Islam
       as set forth by Fiqh-e-Jaa'faria.
     actions:
-      - label: Learn More
+      - label: Donate
         url: /features
         style: primary
     has_background: true
