@@ -73,8 +73,8 @@ sections:
   - type: cta_section
     title: Donate to ICZ today!
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      ICZ is a non-profit religious organization dedicated to practicing Islam
+      as set forth by Fiqh-e-Jaa'faria.
     actions:
       - label: Learn More
         url: /features
