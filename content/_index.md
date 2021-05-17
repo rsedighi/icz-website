@@ -57,7 +57,7 @@ sections:
         content: |
           Please donate generously to ICZ's projects
         align: left
-        image: images/donation.jpeg
+        image: images/donate.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
