@@ -53,7 +53,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Donate
+      - title: Donate Today
         content: |
           Please donate generously to ICZ's projects
         align: left
